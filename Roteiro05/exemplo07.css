@@ -1,0 +1,23 @@
+
+	div{
+		width: 100px;
+		height:100px;
+		border: 1px solid black;		
+	}
+	
+	#area1 {
+		float:right;
+		background-color: #FFA500;
+
+	}
+	#area2 {
+		float: left;
+		background-color: #008000;
+	}
+
+	#area3 {
+		float: right;	
+		background-color: #0000FF;
+	}
+	
+	

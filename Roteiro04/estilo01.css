@@ -1,0 +1,21 @@
+.sub_titulo01 {
+	color: #DDA0DD;
+	font-size: 16px;
+}
+
+.sub_titulo02 {
+	color: blue;
+	font-size: 16px;
+}
+
+
+h2{
+	color: green;
+	text-align: center;
+}
+
+footer{
+	background-color: pink;
+	color: yellow;
+	font-size: 10px;
+}

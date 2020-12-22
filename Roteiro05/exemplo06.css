@@ -1,0 +1,16 @@
+
+
+	#logo1 {
+		float: left;
+	}
+	#logo2 {
+		float: right;		
+	}
+
+	#logo3 {
+		clear: both;	
+	}
+
+	p{
+		text-align: justify;
+	}

@@ -1,0 +1,28 @@
+
+	body{	
+		width: 50%;
+		margin-top: 0px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	h1{
+		text-align: center;
+	}
+
+	p{
+		text-align: justify;
+	}
+
+	#coluna1{	
+		margin-top: 0px;
+		width: 45%;
+		float: left;
+	}
+
+	#coluna2{	
+		margin-top: 0px;
+		width: 45%;
+		float: right;
+	}
+

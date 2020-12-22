@@ -1,0 +1,47 @@
+
+
+
+
+	* {
+		  margin: 0;
+		  padding: 0;
+	  }
+	
+	p {
+		text-align: left;
+		font-family: "Times New Roman";
+	}
+	
+	section p{
+		text-align: justify;		
+	}
+	
+	footer p{
+		text-align: center;
+		font-family: "Arial";		
+	}
+
+	.noticia p {
+		color: red;
+	}
+	
+	footer h2:hover {
+		background: yellow;
+		text-align: center;
+	}
+		
+	#titulo-principal {
+		background-color: #851944;
+		color: #FFFFFF;
+		text-align: center;
+		font-family: "Arial";
+	}
+
+	.titulo-secundario {
+		font-family: "Arial";
+	}
+	
+
+
+	
+	
